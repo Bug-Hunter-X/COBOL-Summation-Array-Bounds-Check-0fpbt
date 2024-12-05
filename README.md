@@ -1,0 +1,1 @@
+This repository demonstrates a common error in COBOL programming related to array access.  The `bug.cob` file contains code that attempts to calculate the sum of numbers from 1 to 10, but it incorrectly accesses the array element containing the sum. The `bugSolution.cob` file provides the corrected code.
